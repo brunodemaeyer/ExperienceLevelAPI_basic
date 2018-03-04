@@ -1,0 +1,14 @@
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.exe.config
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\GhangaExperienceLevelAPI_basic\GhangaExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.exe.config
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\bin\Debug\GhangaExperienceLevelAPI_basic.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ExperienceLevelAPI_basic\ExperienceLevelAPI_basic\obj\Debug\GhangaExperienceLevelAPI_basic.pdb
